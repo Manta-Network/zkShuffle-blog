@@ -12,8 +12,16 @@ export default function Home() {
           <p>
             We are <strong>Zug</strong> (can be also called Zug ZK), an research 
             and community driven project. Our vision is to scale and compose zero-knowledge proof (ZKP) on blockchains,
-            starting from Ethereum. We think zero-knowledge proof + blockchain brings trustless coordination 
-            to human society. And one of some the key infrastructure is to scale ZKP verfication and make ZKP composable.
+            starting from Ethereum. We think zero-knowledge proof + blockchain brings better and more trustless coordination 
+            to human society. And one of the remaining big problems is how to make ZKP scalable and composable on blockchains. 
+            We are building the first proof aggregation service on Ethereum which uses our 
+              <strong>Universal ZK-ZK Proof Aggregation</strong> construction to aggregate all kinds of ZKPs, 
+            including but not limited to as privacy preserving identities, storage proofs, ZKML, zkEVM proofs. 
+            This proof aggregation service could:
+            <ol>
+              <li>Multiply the bandwith (by orders of magnitude) of ZKP verfication on Ethereum (and its L2s)</li>
+              <li>Make composable ZKP proofs from different parties possible </li>
+          </ol>  
           </p>
           <p>
             If you’re excited by advanced cryptography, distributed systems, protocol design or developer relationships, please reach
