@@ -8,28 +8,10 @@ import { Fragment } from 'react';
  */
 export const data = [
   {
-    title: 'Introducing Spartan-ecdsa',
-    href: '/posts/spartan-ecdsa/',
-    date: 'Feb 3, 2023',
-    tags: ['cryptography'],
-  },
-  {
-    title: 'Efficient ECDSA & the case for client-side proving',
-    href: '/posts/efficient-ecdsa-1/',
-    date: 'Nov 30, 2022',
-    tags: ['cryptography'],
-  },
-  {
-    title: 'In-person heyanon at SBC',
-    href: '/posts/sbcheyanon/',
-    date: 'Oct 10, 2022',
-    tags: ['heyanon', 'PSE'],
-  },
-  {
-    title: 'Introducing Spartan-ecdsa',
-    href: '/posts/spartan-ecdsa/',
-    date: 'Feb 3, 2023',
-    tags: ['identity'],
+    title: 'Introducing Zug ZK',
+    href: '/posts/zug-zk/',
+    date: 'June 8, 2023',
+    tags: ['intro'],
   },
 ];
 
@@ -70,7 +52,7 @@ function page() {
         })}
       </div>
       <div className="flexCenter">
-        <p className="footer text-center">© 2022 Personae Labs</p>
+        <p className="footer text-center">© 2023 Zug ZK</p>
       </div>
     </div>
   );
