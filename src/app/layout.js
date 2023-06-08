@@ -1,9 +1,9 @@
-import { Roboto_Mono } from 'next/font/google';
+import { Rubik } from 'next/font/google';
 import Header from '../components/Header';
 
 import '../styles/style.css';
 
-const robotoMono = Roboto_Mono({ subsets: ['latin'] });
+const mainText = Rubik({ subsets: ['latin'], weight: '300' });
 
 // TODO:need update project title and description
 export const metadata = {
@@ -14,7 +14,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={robotoMono.className}>
+      <body className={mainText.className}>
         <main>
           <Header />
           <>{children}</>
