@@ -11,15 +11,11 @@ export const links = [
   },
   {
     title: 'GitHub',
-    href: 'https://github.com/personaelabs',
-  },
-  {
-    title: 'Discord',
-    href: 'https://discord.gg/ZVWhZrbkRV',
+    href: 'https://github.com/Poseidon-ZKP',
   },
   {
     title: 'Twitter',
-    href: 'https://twitter.com/personae_labs',
+    href: 'https://twitter.com/poseidon_zk',
   },
 ];
 
