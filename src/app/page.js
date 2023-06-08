@@ -1,29 +1,23 @@
 /**
  * This is Home page
  */
-// TODO:  update home page info
 export default function Home() {
   return (
     <div id="content">
       <div id="home-jumbotron" className="jumbotron">
         <h1 className="title">
-          <u>Personae Labs</u>
+          <u>Zug ZK</u>
         </h1>
         <div className="description">
           <p>
-            We are <strong>Personae Labs</strong>, an R&amp;D lab investigating
-            the future of human expression online. We believe that the
-            availability of advanced cryptography in consumer devices and the
-            rise of public social networks will completely alter the shape of
-            digital society. Read our
-            <a href="/posts/personae">introductory post</a>.
+            We are <strong>Zug</strong> (can be also called Zug ZK), an research 
+            and community driven project. Our vision is to scale and compose zero-knowledge proof (ZKP) on blockchains,
+            starting from Ethereum. We think zero-knowledge proof + blockchain brings trustless coordination 
+            to human society. And one of some the key infrastructure is to scale ZKP verfication and make ZKP composable.
           </p>
           <p>
-            If you’re excited by advanced cryptography, digital identity where
-            you control your own data, or personable social design, please reach
-            out by Discord: we are especially excited to hear from traditionally
-            underrepresented groups to ensure that everyone is included in the
-            future of digital expression.
+            If you’re excited by advanced cryptography, distributed systems, protocol design or developer relationships, please reach
+            out by twitter DM: we are excited to hear from anyone, regardless of education, experiences or culture.
           </p>
         </div>
       </div>
