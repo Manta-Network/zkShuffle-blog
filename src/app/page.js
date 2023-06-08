@@ -27,7 +27,7 @@ export default function Home() {
                 Multiply the bandwith and thus lower
                 the cost (by orders of magnitude) of ZKP verfication on Ethereum (and its L2s)
               </li>
-              <li> <a href="https://dspace.mit.edu/handle/1721.1/61151">Composing ZKP</a> proofs from different parties </li>
+              <li> <a href="https://dspace.mit.edu/handle/1721.1/61151">Composing zero-knowledge proofs</a> from different parties </li>
             </ol>
           </p>
           <p>
