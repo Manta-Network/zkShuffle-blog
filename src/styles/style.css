@@ -9,7 +9,8 @@ body {
   max-width: 100vw;
   width: 100vw;
   background: #eeeff2;
-  color: black;
+  color: rgb(29, 29, 29);
+  font-weight: 300;
   --background-block: #eee;
 }
 
@@ -20,6 +21,10 @@ main {
   display: flex;
   flex-direction: column;
   margin: auto auto;
+}
+
+strong {
+  font-weight: 400;
 }
 
 .mainPage,

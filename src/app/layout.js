@@ -3,7 +3,7 @@ import Header from '../components/Header';
 
 import '../styles/style.css';
 
-const mainText = Rubik({ subsets: ['latin'], weight: '300' });
+const mainText = Rubik({ subsets: ['latin'] });
 
 // TODO:need update project title and description
 export const metadata = {

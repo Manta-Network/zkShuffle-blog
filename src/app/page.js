@@ -24,17 +24,16 @@ export default function Home() {
             proof aggregation service could:
             <ol>
               <li>
-                Multiply the bandwith and thus lower
-                the cost (by orders of magnitude) of ZKP verfication on Ethereum (and its L2s)
+                Multiply the bandwith and lower the cost (by orders of magnitude) of ZKP verfication on Ethereum (and its L2s)
               </li>
-              <li> <a href="https://dspace.mit.edu/handle/1721.1/61151">Composing zero-knowledge proofs</a> from different parties </li>
+              <li> <a href="https://dspace.mit.edu/handle/1721.1/61151">Composing ZKPs</a> from different parties </li>
             </ol>
           </p>
           <p>
             If you’re excited by advanced cryptography, distributed systems,
             protocol design or public goods, please reach out by twitter DM: we
-            are excited to hear from you, regardless of education, experiences
-            or culture.
+            are excited to hear from you, regardless of education level, experiences
+            or culture background.
           </p>
         </div>
       </div>
