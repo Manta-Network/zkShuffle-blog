@@ -2,6 +2,11 @@
  * this is a demo page, you can follow this file to create a new page
  *
  */
+
+import React from 'react';
+import Math from '@/components/Math';
+
+
 function page() {
   return (
     <div id="content">
@@ -43,6 +48,9 @@ function page() {
       <div></div>
       <h1 id="motivation">Motivation</h1>
       <h2 id="ecdsa--ring-signatures">ECDSA &amp; ring signatures</h2>
+
+      <h2 id="ecdsa--ring-signatures">This is a mathematical formula example</h2>
+      <Math expression="E=MC^2" />
     </div>
   );
 }
