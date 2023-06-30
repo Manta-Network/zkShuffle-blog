@@ -52,7 +52,7 @@ function page() {
         })}
       </div>
       <div className="flexCenter">
-        <p className="footer text-center">© 2023 Zug ZK</p>
+        <p className="footer text-center">© 2023 Nebra</p>
       </div>
     </div>
   );
