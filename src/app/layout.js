@@ -1,9 +1,9 @@
-import { Rubik } from 'next/font/google';
+import { Inter } from 'next/font/google';
 import Header from '../components/Header';
 
 import '../styles/style.css';
 
-const mainText = Rubik({ subsets: ['latin'] });
+const mainText = Inter({ subsets: ['latin'], weight: ['100', '200', '300', '400', '500'] });
 
 // TODO:need update project title and description
 export const metadata = {
