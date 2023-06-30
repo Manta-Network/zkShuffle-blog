@@ -7,12 +7,12 @@ import { Fragment } from 'react';
  *
  */
 export const data = [
-  // {
-  //   title: 'Introducing Nebra',
-  //   href: '/posts/intro/',
-  //   date: 'June 29, 2023',
-  //   tags: ['intro'],
-  // },
+  {
+    title: 'Introducing Nebra',
+    href: '/posts/intro/',
+    date: 'June 29, 2023',
+    tags: ['intro'],
+  },
 ];
 
 function page() {
