@@ -1,9 +1,9 @@
-import { Inter } from 'next/font/google';
+import { IBM_Plex_Sans, Inter } from 'next/font/google';
 import Header from '../components/Header';
 
 import '../styles/style.css';
 
-const mainText = Inter({ subsets: ['latin'] });
+const mainText = IBM_Plex_Sans({ subsets: ['latin'], weight: ['100', '200', '300', '400', '500'] });
 
 // TODO:need update project title and description
 export const metadata = {
