@@ -3,7 +3,7 @@ import Header from '../components/Header';
 
 import '../styles/style.css';
 
-const mainText = Inter({ subsets: ['latin'], weight: ['100', '200', '300', '400', '500', '600', '700'] });
+const mainText = Inter({ subsets: ['latin'] });
 
 // TODO:need update project title and description
 export const metadata = {
