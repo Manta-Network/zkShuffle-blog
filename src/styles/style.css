@@ -27,6 +27,10 @@ strong {
   font-weight: 500;
 }
 
+title {
+  font-weight: 700;
+}
+
 .mainPage,
 .jumbotron,
 .flexCenter {
