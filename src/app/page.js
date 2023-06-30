@@ -6,15 +6,15 @@ export default function Home() {
     <div id="content">
       <div id="home-jumbotron" className="jumbotron">
         <h1 className="title">
-          <u>Zug ZK</u>
+          <u>Nebra</u>
         </h1>
         <div className="description">
           <p>
-            We are <strong>Zug</strong> (can be also called Zug ZK), an research
+            We are <strong>Nebra</strong>, an research
             and community driven project. Our vision is to scale and compose
             zero-knowledge proof (ZKP) on blockchains, starting from Ethereum.
-            We think zero-knowledge proofs + blockchains brings better and more
-            trustless coordination to human society. And one of the remaining
+            We think zero-knowledge proofs + blockchains brings better 
+            coordination to human society. And one of the remaining
             big problems is how to make ZKP scalable and composable on
             blockchains. We are building the first proof aggregation service on
             Ethereum, which uses our{' '}

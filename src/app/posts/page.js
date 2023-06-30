@@ -3,16 +3,16 @@ import { Fragment } from 'react';
 /**
  * this is posts page
  * when you create a new article, you need add it to this page
- * and add a new page folder in pkz-blog/src/app/posts/ ,like pkz-blog/src/app/posts/spartan-ecdsa/
+ * and add a new page folder in src/app/posts/ ,like src/app/posts/spartan-ecdsa/
  *
  */
 export const data = [
-  {
-    title: 'Introducing Zug ZK',
-    href: '/posts/zug-zk/',
-    date: 'June 8, 2023',
-    tags: ['intro'],
-  },
+  // {
+  //   title: 'Introducing Nebra',
+  //   href: '/posts/intro/',
+  //   date: 'June 29, 2023',
+  //   tags: ['intro'],
+  // },
 ];
 
 function page() {
