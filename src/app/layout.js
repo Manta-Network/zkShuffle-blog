@@ -3,7 +3,7 @@ import Header from '../components/Header';
 
 import '../styles/style.css';
 
-const mainText = IBM_Plex_Sans({ subsets: ['latin'], weight: ['100', '200', '300', '400', '500'] });
+const mainText = IBM_Plex_Sans({ subsets: ['latin'], weight: ['100', '200', '300', '400', '500', '700'] });
 
 // TODO:need update project title and description
 export const metadata = {
